@@ -1,0 +1,66 @@
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.Cache
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojAssemblyReference.cache
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.cache
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.CoreCompileInputs.cache
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+F:\sc\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.Cache
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojAssemblyReference.cache
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.cache
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.CoreCompileInputs.cache
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+F:\yehchungyen20181107\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.Cache
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe.config
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.exe
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\bin\Debug\yehchungyenpossystem.pdb
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csprojAssemblyReference.cache
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Form1.resources
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.Properties.Resources.resources
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.GenerateResource.cache
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.csproj.CoreCompileInputs.cache
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.exe
+E:\program\C#\C#_KTV\pos\yehchungyenpossystem\yehchungyenpossystem\yehchungyenpossystem\obj\Debug\yehchungyenpossystem.pdb

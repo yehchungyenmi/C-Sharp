@@ -1,0 +1,71 @@
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\bin\Debug\KTV.exe.config
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\bin\Debug\KTV.exe
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\bin\Debug\KTV.pdb
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\bin\Debug\Interop.WMPLib.dll
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\bin\Debug\AxInterop.WMPLib.dll
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\Interop.WMPLib.dll
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.Form_KTV.resources
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.exe
+c:\users\office\documents\visual studio 2015\Projects\KTV\KTV\obj\Debug\KTV.pdb
+E:\program\KTV\KTV\bin\Debug\KTV.exe.config
+E:\program\KTV\KTV\obj\Debug\Interop.WMPLib.dll
+E:\program\KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+E:\program\KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+E:\program\KTV\KTV\obj\Debug\KTV.exe
+E:\program\KTV\KTV\obj\Debug\KTV.pdb
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\KTV.exe.config
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.exe
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.pdb
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\KTV.exe
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\KTV.pdb
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.Form_KTV.resources
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\KTV\KTV\bin\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\KTV.exe.config
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.exe
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.pdb
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\KTV.exe
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\KTV.pdb
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\yehchungyenpossystem.exe
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\yehchungyenpossystem.pdb
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.Form_KTV.resources
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\10714D025\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+E:\program\C#\C#_KTV\KTV\bin\Debug\KTV.exe.config
+E:\program\C#\C#_KTV\KTV\bin\Debug\KTV.exe
+E:\program\C#\C#_KTV\KTV\bin\Debug\KTV.pdb
+E:\program\C#\C#_KTV\KTV\bin\Debug\yehchungyenpossystem.exe
+E:\program\C#\C#_KTV\KTV\bin\Debug\yehchungyenpossystem.pdb
+E:\program\C#\C#_KTV\KTV\bin\Debug\yehchungyenpossystem.exe.config
+E:\program\C#\C#_KTV\KTV\bin\Debug\Interop.WMPLib.dll
+E:\program\C#\C#_KTV\KTV\bin\Debug\AxInterop.WMPLib.dll
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.csprojAssemblyReference.cache
+E:\program\C#\C#_KTV\KTV\obj\Debug\Interop.WMPLib.dll
+E:\program\C#\C#_KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.Form_KTV.resources
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.cache
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.csproj.CoreCompileInputs.cache
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.csproj.CopyComplete
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.exe
+E:\program\C#\C#_KTV\KTV\obj\Debug\KTV.pdb
