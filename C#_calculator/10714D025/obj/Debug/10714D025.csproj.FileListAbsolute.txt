@@ -1,0 +1,47 @@
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\bin\Debug\10714D025.exe.config
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\bin\Debug\10714D025.exe
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\bin\Debug\10714D025.pdb
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\10714D025.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\_10714D025.Form_my_calculator.resources
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\_10714D025.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\10714D025.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\10714D025.exe
+c:\users\office\documents\visual studio 2015\Projects\10714D025\10714D025\obj\Debug\10714D025.pdb
+C:\Users\OFFICE\Desktop\calculator\10714D025\bin\Debug\10714D025.exe.config
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\10714D025.exe
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\10714D025.pdb
+C:\Users\OFFICE\Desktop\calculator\10714D025\bin\Debug\10714D025.exe
+C:\Users\OFFICE\Desktop\calculator\10714D025\bin\Debug\10714D025.pdb
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\10714D025.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\_10714D025.Form_my_calculator.resources
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\_10714D025.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\calculator\10714D025\obj\Debug\10714D025.csproj.GenerateResource.Cache
+E:\program\calculator\10714D025\bin\Debug\10714D025.exe.config
+E:\program\calculator\10714D025\obj\Debug\10714D025.exe
+E:\program\calculator\10714D025\obj\Debug\10714D025.pdb
+E:\program\calculator\10714D025\bin\Debug\10714D025.exe
+E:\program\calculator\10714D025\bin\Debug\10714D025.pdb
+E:\program\calculator\10714D025\obj\Debug\10714D025.csprojResolveAssemblyReference.cache
+E:\program\calculator\10714D025\obj\Debug\_10714D025.Form_my_calculator.resources
+E:\program\calculator\10714D025\obj\Debug\_10714D025.Properties.Resources.resources
+E:\program\calculator\10714D025\obj\Debug\10714D025.csproj.GenerateResource.Cache
+F:\program\calculator\10714D025\bin\Debug\10714D025.exe.config
+F:\program\calculator\10714D025\bin\Debug\10714D025.exe
+F:\program\calculator\10714D025\bin\Debug\10714D025.pdb
+F:\program\calculator\10714D025\obj\Debug\10714D025.csprojAssemblyReference.cache
+F:\program\calculator\10714D025\obj\Debug\_10714D025.Form_my_calculator.resources
+F:\program\calculator\10714D025\obj\Debug\_10714D025.Properties.Resources.resources
+F:\program\calculator\10714D025\obj\Debug\10714D025.csproj.GenerateResource.cache
+F:\program\calculator\10714D025\obj\Debug\10714D025.csproj.CoreCompileInputs.cache
+F:\program\calculator\10714D025\obj\Debug\10714D025.exe
+F:\program\calculator\10714D025\obj\Debug\10714D025.pdb
+E:\program\C#\C#_calculator\10714D025\bin\Debug\10714D025.exe.config
+E:\program\C#\C#_calculator\10714D025\bin\Debug\10714D025.exe
+E:\program\C#\C#_calculator\10714D025\bin\Debug\10714D025.pdb
+E:\program\C#\C#_calculator\10714D025\obj\Debug\10714D025.csprojAssemblyReference.cache
+E:\program\C#\C#_calculator\10714D025\obj\Debug\_10714D025.Form_my_calculator.resources
+E:\program\C#\C#_calculator\10714D025\obj\Debug\_10714D025.Properties.Resources.resources
+E:\program\C#\C#_calculator\10714D025\obj\Debug\10714D025.csproj.GenerateResource.cache
+E:\program\C#\C#_calculator\10714D025\obj\Debug\10714D025.csproj.CoreCompileInputs.cache
+E:\program\C#\C#_calculator\10714D025\obj\Debug\10714D025.exe
+E:\program\C#\C#_calculator\10714D025\obj\Debug\10714D025.pdb
