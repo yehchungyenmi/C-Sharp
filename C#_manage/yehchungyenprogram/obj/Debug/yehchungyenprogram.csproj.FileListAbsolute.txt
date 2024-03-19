@@ -1,0 +1,78 @@
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+c:\users\office\documents\visual studio 2015\Projects\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+E:\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+E:\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+E:\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.Cache
+C:\Users\OFFICE\Desktop\yehchungyenprogram\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+C:\Users\User\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\yehchungyenprogramedit\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.Cache
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.Cache
+E:\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+E:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+E:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+H:\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+H:\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+H:\10714D025 葉宗宴\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojAssemblyReference.cache
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.cache
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.CoreCompileInputs.cache
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+H:\10714D025 葉宗宴\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+E:\program\C#\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+E:\program\C#\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+E:\program\C#\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csprojAssemblyReference.cache
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.cache
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.CoreCompileInputs.cache
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
