@@ -1,0 +1,32 @@
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\QRcode.exe.config
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.csprojResolveAssemblyReference.cache
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.Form1.resources
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.csproj.GenerateResource.Cache
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\QRcode.exe
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\QRcode.pdb
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\QRCoder.dll
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.dll
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.presentation.dll
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.pdb
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.xml
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.presentation.pdb
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\bin\Debug\zxing.presentation.xml
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.exe
+c:\users\office\documents\visual studio 2015\Projects\QRcode\QRcode\obj\Debug\QRcode.pdb
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\QRcode.exe.config
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.exe
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.pdb
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\QRcode.exe
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\QRcode.pdb
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\QRCoder.dll
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.dll
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.presentation.dll
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.pdb
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.xml
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.presentation.pdb
+C:\Users\OFFICE\Desktop\QRcode\QRcode\bin\Debug\zxing.presentation.xml
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.csprojResolveAssemblyReference.cache
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.Form1.resources
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.Properties.Resources.resources
+C:\Users\OFFICE\Desktop\QRcode\QRcode\obj\Debug\QRcode.csproj.GenerateResource.Cache
