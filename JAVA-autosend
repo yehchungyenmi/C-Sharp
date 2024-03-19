@@ -1,0 +1,125 @@
+//**********************READ ME*****************************
+//***************每月只需修改後面的數字即可**********************
+//建立資料夾名稱(建議：CustomerPDF + 月份 ex：CustomersPDF09   
+//建立客戶名單名稱(建議：CustomerMail + 月份 ex：CustomersMail09)     
+//********************請先執行Step1***************************
+//**********請在同資料夾表單填寫完畢後再執行Step 2****************
+
+
+
+var foldername = "CustomersPDF03";   
+var sheetsname = "CustomersMail03"; 
+var sheetlist = listSheets()  //                                                                   
+var ssid = SpreadsheetApp.getActiveSpreadsheet().getId();
+
+function step1() {
+  createfileandfolder();
+  generatepdf();
+}
+
+function step2() {
+  var fileid = DriveApp.getFilesByName(sheetsname).next().getId();
+  var sheet = SpreadsheetApp.openById(fileid).getActiveSheet();
+  var statuscellvalue = sheet.getRange("E" + i).getValues();
+  var customermailcellvalue = sheet.getRange("C" + i).getValue();
+  for (var i = 2; i < sheetlist.length; i++){
+    if (customermailcellvalue == "已發送") {
+      
+    }
+    else if (statuscellvalue == "") {
+      
+    }
+    else {
+      var filename = sheet.getRange("A" + i).getValue();
+      var pdfBlob = DriveApp.getFilesByName(filename + ".pdf");
+      var receiver = sheet.getRange("B" + i).getValue();
+      var subj = sheet.getRange("C" + i).getValue();
+      var bo = sheet.getRange("D" + i).getValue();
+      try {
+        let file = pdfBlob.next();
+        MailApp.sendEmail({
+          to: receiver,
+          subject: subj,
+          body: bo,
+          attachments: [file]
+        });
+        sheet.getRange("E" + i).setValue("已發送")
+      }
+      catch (Error) {
+        Logger.log(Error)
+      }
+    }
+}
+}
+
+function createfileandfolder() {  //建立資料夾，發送Mail名單sheet檔案
+  SpreadsheetApp.create(sheetsname);
+  DriveApp.createFolder(foldername);
+  var folderid = DriveApp.getFoldersByName(foldername).next().getId();
+  var fileid = DriveApp.getFilesByName(sheetsname).next().getId();
+  DriveApp.getFileById(fileid).moveTo(DriveApp.getFolderById(folderid));
+  try {
+    var sheet = SpreadsheetApp.openById(fileid).getActiveSheet();
+    for (var i = 0; i < sheetlist.length; i++) {
+      sheet.getRange("A1").setValue("PDF檔名");
+      sheet.getRange("A" + (i + 2)).setValue(sheetlist[i]);
+      sheet.getRange("B1").setValue("客戶Email");
+      sheet.getRange("C1").setValue("Mail 標題");
+      sheet.getRange("D1").setValue("Mail 內容");
+      sheet.getRange("E1").setValue("發送狀態");
+      sheet.getRange("E" + (i + 2)).setValue("未發送")
+      sheet.autoResizeColumn(1);
+    }
+  }
+  catch (Error) {
+    Logger.log(Error)
+  }
+}
+
+function generatepdf() {  //產PDF檔
+  for (var i = 0; i < sheetlist.length; i++) {
+    getcustomersheeturl(i)
+  }
+}
+
+function listSheets() {
+  var sheetNames = new Array();
+  var sheets = SpreadsheetApp.getActiveSpreadsheet().getSheets();
+  var selectedSheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  var selectedRow = selectedSheet.getActiveCell().getRow();
+  var selectedCol = selectedSheet.getActiveCell().getColumn();
+  var range = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet().getRange(selectedRow, selectedCol, sheets.length, 1);
+  for (var i = 0; i < sheets.length; i++) sheetNames.push([sheets[i].getName()]);
+  range.setValues(sheetNames);
+  return (sheetNames);
+}
+
+function getcustomersheeturl(i) {
+  var folderid = DriveApp.getFoldersByName(foldername).next().getId();
+  var refSheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName(sheetlist[i]);
+  var refSheetId = refSheet.getSheetId().toString();
+  const url = "https://docs.google.com/spreadsheets/d/" + ssid + "/export" +
+    "?format=pdf&" +
+    "size=A4&" +
+    "fzr=true&" +
+    "portrait=false&" +
+    "fitw=true&" +
+    "gridlines=false&" +
+    "printtitle=false&" +
+    "top_margin=0.5&" +
+    "bottom_margin=0.25&" +
+    "left_margin=0.5&" +
+    "right_margin=0.5&" +
+    "sheetnames=true&" +
+    "pagenum=RIGHT&" +
+    "attachment=true&" +
+    "gid=" + refSheetId;
+  Logger.log(refSheetId);
+  Logger.log(url);
+  const params = { method: "GET", headers: { "authorization": "Bearer " + ScriptApp.getOAuthToken() } };
+  const blob = UrlFetchApp.fetch(url, params).getBlob().setName(sheetlist[i] + '.pdf');
+  const folder = DriveApp.getFolderById(folderid);
+  const pdfFile = folder.createFile(blob);
+  Utilities.sleep(8000);
+  return pdfFile;
+}
