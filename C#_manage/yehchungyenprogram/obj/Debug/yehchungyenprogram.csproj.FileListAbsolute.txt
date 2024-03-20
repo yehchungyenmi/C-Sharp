@@ -76,3 +76,14 @@ E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.G
 E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.CoreCompileInputs.cache
 E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
 E:\program\C#\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe.config
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.exe
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\bin\Debug\yehchungyenprogram.pdb
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.AssemblyReference.cache
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form1.resources
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Form2.resources
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.Properties.Resources.resources
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.GenerateResource.cache
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.csproj.CoreCompileInputs.cache
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.exe
+C:\Users\yehchungyen\Documents\GitHub\C-Sharp\C#_manage\yehchungyenprogram\obj\Debug\yehchungyenprogram.pdb
